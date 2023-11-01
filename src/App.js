@@ -18,7 +18,7 @@ function App() {
       <p className="wc">
         Word Count: <span className="num">{wordCount}</span>{" "}
       </p>
-      <p>Chillara V L N S Pavana Vamsi</p>
+      <p>VOGGU NITHYA PRASANTH</p>
     </div>
   );
 }
